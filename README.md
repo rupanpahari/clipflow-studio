@@ -1,4 +1,4 @@
-# ClipFlow Studio updates
+# ClipFlow Studio
 
 Official Android APK releases for ClipFlow Studio. No Google Play Store is required.
 
