@@ -4,8 +4,6 @@ Official Android APK releases for ClipFlow Studio. No Google Play Store is requi
 
 ## Install or update
 
-[Download the latest APK](https://github.com/rupanpahari/clipflow-studio-updates/releases/latest/download/ClipFlow-Studio.apk)
-
 [Release notes](https://github.com/rupanpahari/clipflow-studio-updates/releases/latest)
 
 Install the APK over your existing ClipFlow Studio app. Do **not** uninstall or clear app data if you want to retain your projects and settings. Android asks you to approve installation and may require **Allow from this source**.
